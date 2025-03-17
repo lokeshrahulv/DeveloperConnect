@@ -2,7 +2,7 @@
 Developer Connect is a dynamic platform designed to bridge the gap between talented developers and potential employers. Whether you're a freelancer, job seeker, or company looking for skilled professionals, Developer Connect provides an AI-powered matchmaking system to streamline hiring.
 
 # 🌍 Demo
-🔗 Live Demo 
+🔗 Live Demo (Available soon)
 
 # 📌 About Developer Connect
 Finding the right developer or job opportunity can be challenging. Developer Connect simplifies this process by offering a seamless way to create professional developer profiles, explore job postings, and facilitate direct connections between developers and employers.
