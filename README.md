@@ -44,7 +44,7 @@ Finding the right developer or job opportunity can be challenging. Developer Con
 ![Screenshot 2025-03-17 191547](https://github.com/user-attachments/assets/2f205e69-c8e8-4d8c-b31e-5cebe09e9cd2)
 
 ### 📊 Employer Dashboard
-![Screenshot 2025-03-17 191615](https://github.com/user-attachments/assets/96812d8f-4dd1-420f-8a64-4695eae87b6a)
+![image](https://github.com/user-attachments/assets/64479886-10ed-4ddb-93c1-f5c3cf009605)
 
 ## 📞 Contact Info
 ### Email: lokeshrahulvl11@gmail.com
